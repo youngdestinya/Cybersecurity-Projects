@@ -2,6 +2,7 @@ Project: Information Security Management Systems Guidelines using the National I
 Organisation: Oil and Gas Free Zones Authority | https://ogfza.gov.ng/
 
 Project Objective: 
+
 . This guideline describes a set of best IT practices intended to ensure the effective implementation of industry-standard requirements for information security management programs.
 
 . This document aims to provide an understanding of the specific, standards-based security controls required by NIST and CIS to guarantee the best cybersecurity program.
