@@ -1,5 +1,7 @@
 Project: Information Security Management Systems Guidelines using the National Institute of Standards and Technology (NIST) and Centre for Internet Security (CIS). 
-Organisation: Oil and Gas Free Zones Authority | https://ogfza.gov.ng/
+
+
+Beneficiary Organisation: Oil and Gas Free Zones Authority | https://ogfza.gov.ng/
 
 Project Objective: 
 
